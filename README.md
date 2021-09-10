@@ -16,7 +16,7 @@ $ git config --global core.editor "vim/emacs/nano"
 ```
 
 Would highly reccomend setting up your account with [SSH
-keys](https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa/accessing-github-using-two-factor-authentication) and 
+keys](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh) and 
 [Two Factor
 Authentification](https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa/accessing-github-using-two-factor-authentication), instructions on that here: 
 
